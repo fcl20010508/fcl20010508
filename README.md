@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcl20010508&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 You are my ![Visitor Count](https://profile-counter.glitch.me/fcl20010508/count.svg) visitor. 
 
 ![Views](http://views.whatilearened.today/views/github/fcl20010508/views.svg)
